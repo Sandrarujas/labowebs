@@ -572,3 +572,16 @@ Yo he elegido lo siguiente:
 
 ![image-20241119192636620](./Ejercicio de Git - proyecto labowebs.assets/image-20241119192636620.png)
 
+Abrimos la terminal y ejecutamos los siguientes comandos:
+
+```bash
+$ git add .
+$ git commit -m "Añadimos carpeta Docs al repositorio"
+$ git push labowebs main
+```
+
+![03_remote_58](./Ejercicio de Git - proyecto labowebs.assets/03_remote_58.png)
+
+![03_remote_59](./Ejercicio de Git - proyecto labowebs.assets/03_remote_59.png)
+
+![03_remote_60](./Ejercicio de Git - proyecto labowebs.assets/03_remote_60.png)
